@@ -1,1 +1,1 @@
-# grad_prep
+# Calculus I and II, Linear Algebra in Python
